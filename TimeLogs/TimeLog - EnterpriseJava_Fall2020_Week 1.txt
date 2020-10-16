@@ -1,0 +1,34 @@
+Tosan Ogedengbe
+Enterprise Java Fall 2020: Weekly Reflection - Time Logs
+
+Week 1
+8/30/2020 - 9/2/2020 - 7 hours
+
+Tasks Completed:
+Completed the Course Set Up
+Watched All Week 1 Videos
+Started thinking on an individual project
+
+
+Accomplishments: 
+I believe I have a solid idea for the individual project, and will just need to discuss it with the instructor to see if I can make it work. 
+
+
+Struggles: 
+I have a good idea of what I am going to do for the project. My struggles continue to be internal. I am not sure why I feel the way I do, but I have been working on Java tutorials and videos outside of class to help me transition from student (where I seem to be comfortable) to beginning professional (where I am lacking confidence). 
+I feel that a lot of this could be nervousness as I get ready to enter the IT world and cease being a student. A lot of this is probably from the fact that I see professionals at work all day and I cannot see them as ever having been where I am. That makes me very insecure as I know that I cannot be like them right out of the gate. I guess I need some different role models...Bottom line, I need to work on ending this insecurity. 
+
+
+Next Week Plan:
+I need to work on Week 2 assignments, practice and study more and make sure I avoid falling behind. Work on getting a complete view for the individual project and also start looking at the professional development activity as well. Will try to see if I can also get this Tomcat issue under control.
+
+
+
+
+ 
+
+
+
+
+
+

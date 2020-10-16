@@ -1,0 +1,25 @@
+Tosan Ogedengbe
+Enterprise Java Fall 2020: Weekly Reflection - Time Logs
+
+
+Week 6
+10/1/2020 - 10/7/2020 - 15 hours
+
+RELEVANT ITEMS:
+1. Reviewed and re-watched videos from Advanced Java Programming 112 (Units 3 - 4)
+2. Added some additional new research, organization, and structure for the data collected on Amazon Lumberyard for the Professional Development Activity.
+3. Began work on a set of note files to help organize and show workflow for the Individual Project.  
+4. Continued work to redefine the HTML files for the Individual Project.
+5. Received the answers I needed from the instructor on some nagging questions I had come up in my review.  
+
+
+ACCOMPLISHMENTS:  
+I continued my trip back to basics and reviewed the final modules for several areas that contained areas I felt I needed some review on. That was the final material in Advanced Java 112 and taking a fresh look at the materials there. I collected some additional new resources material for my Professional Development Activity that had to do with an actual game that was created using Amazon Lumberyard. I feel this data and a look at this game could help me verify the validity of this product in the actual gamin industry as a viable game engine. I did get some answers from the instructor on many questions I had that seemed like road blocks towards my fully understanding my individual project. With those answers, I feel much better about what I did know, and what I need to learn. 
+
+
+SETBACKS:
+Based on medical issues, I was not able to get through any of the videos required for the week. It continues to take time away from my ability to do this work. Last week, I decided to go back and review materials from Advanced Java to make sure I at least got a lot of questions answered before going further into this current unit. My problems with remembering older materials persist, so I still needed to spend some time having to backtrack to get these answers. I lost more time not being able to do as much as I predicted or hoped for, so my work is going to be another week late at the least. With that, I could be looking at falling behind even more. 
+
+
+NEXT WEEK'S PLAN:
+I still have questions that I feel are just now coming up and some due to ignorance or a failure to ask them before. I will be sure to get them asked. Next week will also be devoted to catching up as much as possible, but my health could be a road block to all of this. I guess I will remain hopeful. I need to complete the assignments for Week 4, 5 and 6 as soon as possible. After that, I need to get right into building out anything I can for my individual project.
