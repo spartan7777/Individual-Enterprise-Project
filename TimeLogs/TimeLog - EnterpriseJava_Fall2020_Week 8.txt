@@ -1,0 +1,67 @@
+Tosan Ogedengbe
+Enterprise Java Fall 2020: Weekly Reflection - Time Logs
+
+
+Week 8
+10/15/2020 - 10/21/2020 - 28 hours
+
+RELEVANT ITEMS:
+1. Watched all Week 6 videos/Completed Week 6 Assignments
+2. Watched all Week 7 videos/Completed Week 7 Assignments
+3. Re-watched all Week 4 videos
+4. Re-watched all Week 5 videos
+5. Completed the Project Plan for the Individual Project Checkpoint 2
+6. Completed repurposing the base HTML pages for the Individual Project Checkpoint 2
+7. Completed the Design Flow Chart for the web pages for the Individual Project Checkpoint 2
+8. Completed the Code Notes for the JSPs for the Individual Project Checkpoint 2
+9. Re-watched all materials on Log4J and Unit Testing
+10. Watched external tutorial videos on MVC Design Patterns
+11. Watched external tutorial videos on JDBC & DAO function in Java 
+12. Watched external tutorial videos on Rest API
+
+
+ACCOMPLISHMENTS:  
+I was able to accomplish a lot this week in trying to get things back on track due to time missed. 
+I completed my Project Plan for the Concept Compendium. This is going to help me make sure I remain dedicated to a set of steps that I know will serve me well and help me maintain focus on what is in front of me rather than worry about things I may not understand, but can clear up later. 
+I was also able to repurpose all of the old HTML pages from the older version of the Concept Compendium and remove all PHP from those pages. In working on this, I found several pages that were not needed and discarded those. I also found a few pages that needed to be created, and these were done as well. 
+Once this was complete - I moved on into the Design Flow for the pages in the application. I created pdf pages that contained screen shots and detailed notes about what each page does, why it does it, and what buttons and functionality the pages will contain. These notes also explain the links and where the user goes when each button is used. 
+After this, I completed work on what I called the Code Notes for the JSPs that the Concept Compendium will use. These are simply screen shots for each page that I note down what code would be needed to perform the functions detailed in the Design Flow record as a JSP. It is my hope that at the very least, I can use these to get all the java classes and code written relatively easily with a great understanding of why I am adding code to wherever it is needed. If this goes according to plan, troubleshooting may not be too tough. I was able to submit all of these early for feedback.
+I also went back to try to get some of the weekly work done within the one week late acceptance time periods. 
+I decided to try to better reinforce what has been presented in the class videos using some videos on YouTube that I found from an instructor who seems to explain thigs in a way that works well for me. Here are the videos I reviewed several times this week. 
+
+Servlet/JSP/JDBC/Maven: https://www.youtube.com/watch?v=WXmTxgDg52o
+JDBC/Java Database Connectivity Theory: https://www.youtube.com/watch?v=y_YxwyYRJek
+Java Database Connectivity with DAO: https://www.youtube.com/watch?v=8QOjN89wA-Y
+MVC Design Pattern using Servlet and JSP: https://www.youtube.com/watch?v=MDHj4vgKY6Q
+Rest API: https://www.youtube.com/watch?v=qVTAB8Z2VmA
+
+
+
+SETBACKS:  
+Time was the major setback this week. I worked as much as possible to get caught up, but for each item I produced to get caught up - it seemed like I needed to abandon something in order not to remain further behind. I also found that it was slow learning for me for a lot of these new concepts in Java - so I opted to go for the exercise instead of applying these things directly to my project. A lot of this had to do with the fact that I am starting to see clearly how the project and the pages will flow and move, but I am not all the way there in regard to database and Java class constructions...at this time. I am making my way there, and I feel that I will soon make that breakthrough, I just need to keep working on comprehending these new items in the way that works best for me and not get too worried about how long it seems to be taking me. I noticed that I had some issues with Log4J and Unit Testing. I do not feel I understand these concepts as needed, so I had to go back and review them. I also noticed that my pom.xml file does not seem to have all that it needs in it, so I will need to go back and correct that as best I can before moving on too far. 
+
+
+
+
+NEXT WEEK'S PLAN:
+I am making some progress in regard to catching up. Basically, I do not have as many overdue items in my course progress, but I am not able to get everything done. There is a chance that it is just too late to worry about some of these older assignments. I will need to maintain this pace if possible so that I can prevent anything from going overdue or getting completely missed from this point onwards. I need to do what I can with my project and the Professional Development Activity so that if I do hit any major setbacks, these may cause me to break even rather than fall behind again.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
