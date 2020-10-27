@@ -1,0 +1,40 @@
+Tosan Ogedengbe
+Enterprise Java Fall 2020: Weekly Reflection - Time Logs
+
+
+Week 2
+9/3/2020 - 9/9/2020 - 10 hours
+
+Tasks Completed:
+Completed all Week 1 assignments
+Watched All Week 2 Videos
+Started thinking on an individual project
+Started documenting the project plan
+Tomcat Server Troubleshooting
+
+
+Accomplishments: 
+I have a solid idea for the individual project, and will just need to discuss it with the instructor to see if I can make it work. It is the same idea I presented in the Spring semester, but I just did not get to complete it then. The idea was strong then as it is now, and it is something I would love to try to bring forward. 
+
+
+Struggles: 
+I have a good idea of what I am going to do for the project. My struggles continued with Tomcat. I could get it to run on my machine sometimes, but when it was time to get it to run in conjunction with IntelliJ, I had issues and project failures. The VMware also continues to fail to import. I received an error message this time indicating the import files could have been corrupted. I tried the import with both VMWare 14 and 15. Both failed. 
+
+
+Next Week Plan:
+I need to work on completing the Week 2 assignments early so that I can avoid falling behind. Will try to move ahead and begin some of the Week 3 stuff as well. Start work on the planning and design of the individual project and also start looking at the professional development activity as well. I would like to try working on Amazon Rekognition. This seems like something that would interest me a lot and I would like to learn more about it. Will see if I can make a declaration on that as soon as possible.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
