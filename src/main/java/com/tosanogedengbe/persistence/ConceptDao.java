@@ -1,13 +1,13 @@
 package com.tosanogedengbe.persistence;
 
-public class ConceptDao {
-
+import com.tosanogedengbe.model.Concept;
 import org.apache.logging.lo4j.LogManager;
 import org.apache.logging.lo4j.Logger;
 
-import.....
+import java.util.List;
 
-    /**
+
+/**
      * This DAO class provides CRUD database operations for the concept table in the database.
      * @author Tosan Ogedengbe
      *
@@ -55,6 +55,6 @@ import.....
             return concept;
         }
 
-    }
-
 }
+
+

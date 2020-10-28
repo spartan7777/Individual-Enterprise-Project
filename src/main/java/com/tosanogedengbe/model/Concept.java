@@ -10,8 +10,7 @@ import.......
      * @author Tosan Ogedengbe
      *
      */
-
-    @Entity(name = "Concept")
+    @Entity(name = Concept)
     @Table(name = "concept")
 
     public class Concept {
@@ -36,9 +35,13 @@ import.......
         @Column(name = "description")
         private String description;
 
-// Constructor to initialize variables.
+// Constructor to instantiate a new Concept and initialize variables.
 
         public Concept() {
+
+        }
+
+        public Concept(int concept_id, String name, String keywordOne, String keywordTwo, String categry, String description) {
             this.conceptId = conceptId;
             this.name = name;
             this.keywordOne = keywordOne;

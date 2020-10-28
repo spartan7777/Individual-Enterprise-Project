@@ -11,7 +11,6 @@ import.......
      *
      */
 
-    @Entity(name = "User")
     @Table(name = "user")
 
     public class User {
