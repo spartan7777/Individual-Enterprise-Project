@@ -21,12 +21,12 @@
         <section>
 
         
-            <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+            <form method="post" action="j_security_check">
                 <fieldset id="fieldset">
             <label class="catalogLabels">Username:</label>
-                <input type="text" id="username" name="username" value=""/><br />
+                <input type="text" id="username" name="j_username" value=""/><br />
             <label class="catalogLabels">Password:</label>
-                <input type="password" id="password" name="password" />
+                <input type="password" id="password" name="j_password" />
                 </fieldset>
                 <br />
                 <input type="submit" class="catalogButtons" value="Log In" name="submit" />
