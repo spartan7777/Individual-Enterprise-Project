@@ -1,7 +1,5 @@
 package com.tosanogedengbe.model;
 
-public class Role {
-
 import.......
 
     /**
@@ -11,14 +9,19 @@ import.......
      *
      */
 
+    @Entity(name = "Role")
     @Table(name = "role")
-
-    public class User {
+    public class Role {
         @Id
         @GeneratedValue(strategy = GenerationType.AUTO, generator = "native"
                 @GenericGenerator(name = "native", strategy = "native")
-        @Column(name = "role_id")
         private int roleId;
+
+        @ManyToOne
+        @JoinColumn(name = "user_id",
+            foreignKey = @ForeignKey(name = "role_user_user_id")
+
+        private User user;
 
         @Column(name = "role")
         private String role;
@@ -28,6 +31,9 @@ import.......
 
 
 // Constructor to initialize variables.
+        public Role() {
+
+        }
 
         public Role() {
             this.roleId = roleId;

@@ -19,7 +19,6 @@ import java.util.List;
 
         SessionFactory sessionFactoryOne = SessionFactoryProvider.getSessionFactory();
 
-
         public List<Concept> getAllConcepts() {
 
             Session sessionOne = sessionFactoryOne.openSession();

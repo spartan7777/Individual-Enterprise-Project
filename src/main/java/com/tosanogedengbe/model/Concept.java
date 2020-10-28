@@ -1,7 +1,5 @@
 package com.tosanogedengbe.model;
 
-public class Concept {
-
 import.......
 
     /**
@@ -101,5 +99,5 @@ import.......
             this.description = description;
         }
 
-    }
 }
+

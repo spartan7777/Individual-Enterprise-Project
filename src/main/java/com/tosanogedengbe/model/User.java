@@ -1,7 +1,5 @@
 package com.tosanogedengbe.model;
 
-public class User {
-
 import.......
 
     /**
@@ -86,6 +84,6 @@ import.......
             this.password = password;
         }
 
-    }
-
 }
+
+
